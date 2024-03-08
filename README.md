@@ -18,17 +18,13 @@ C++,Python
 
 *参考 
 
-AtCoder に登録したら次にやること ～ これだけ解けば十分闘える！過去問精選 10 問 ～
-https://qiita.com/drken/items/fd4e5e3630d0f5859067#5-%E9%81%8E%E5%8E%BB%E5%95%8F%E7%B2%BE%E9%81%B8-10-%E5%95%8F
+[AtCoder に登録したら次にやること ～ これだけ解けば十分闘える！過去問精選 10 問 ～](https://qiita.com/drken/items/fd4e5e3630d0f5859067#5-%E9%81%8E%E5%8E%BB%E5%95%8F%E7%B2%BE%E9%81%B8-10-%E5%95%8F)
 
-計算量オーダーの求め方を総整理！ 〜 どこから log が出て来るか 〜
-https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0
+[計算量オーダーの求め方を総整理！ 〜 どこから log が出て来るか 〜](https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0)
 
-AtCoder Beginners Selection 11問をpythonで解いてみた
-https://tysonblog-whitelabel.com/atcoder-beginners-selection
+[AtCoder Beginners Selection 11問をpythonで解いてみた](https://tysonblog-whitelabel.com/atcoder-beginners-selection)
 
-AtCoder Beginners Selection 徹底解説 【Python】
-https://note.com/keisuke_funabiki/n/nec9df628f77c
+[AtCoder Beginners Selection 徹底解説 【Python】](https://note.com/keisuke_funabiki/n/nec9df628f77c)
 
 
 
